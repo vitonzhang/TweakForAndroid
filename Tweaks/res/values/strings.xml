@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Tweaks</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string android:layout_width="wrap_content" 
+        android:id="@+id/string1" 
+        android:layout_height="wrap_content" 
+        name="button_change_server_url">ChangeServerUrl</string>
+
+</resources>
